@@ -33,7 +33,7 @@ A study on the volatility of airline pricing.
 
 This section collects strategic case studies and theoretical applications in corporate and public management.
 
-### [Amsterdam’s Circular Economy Plan](LINK_AL_PDF_O_FOLDER)
+### [Amsterdam’s Circular Economy Plan](https://github.com/Tommaso-Maccaferri/Bachelor-s-projects/blob/main/Analysis%20of%20the%20City%20of%20Amsterdam%E2%80%99s%20Circular%20Economy%20Strategy%20Using%20Bryson%E2%80%99s%20Model.pdf))
 *Framework: Bryson Strategic Model*
 A strategic evaluation of Amsterdam's transition to a circular economy.
 - **Overview:** Applied the Bryson Model to assess stakeholder engagement and policy effectiveness in urban sustainability planning.
