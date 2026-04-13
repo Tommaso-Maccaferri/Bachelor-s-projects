@@ -1,9 +1,10 @@
 # Bachelor's Projects Portfolio 
 
 **University of Bologna | Economics, Politics, and Social Sciences**
+
 **Technological University of Dublin | Business Administration and Marketing exchange program**
 
-This repository serves as an archive of the key academic projects, case studies, and research papers completed during my Bachelor's degree. It highlihts a peculiar multidisciplinary approach that combined quantitative analysis with strategic management and organizational theory.
+This repository serves as an archive of the key academic projects, case studies, and research papers completed during my Bachelor's degree. It highlihts the multidisciplinary approach I focused on which combined quantitative analysis with strategic management and organizational theory.
 
 ---
 
